@@ -1,0 +1,10 @@
+udacity
+udacity.pub
+.DS_Store
+./.DS_Store
+data
+.ipynb_checkpoints
+*.h5
+models
+*.swp
+*.p
